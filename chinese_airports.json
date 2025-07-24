@@ -1,0 +1,2498 @@
+[
+    {
+        "nameChinese": "北京首都国际机场",
+        "nameEnglish": "Beijing Capital International Airport",
+        "icaoCode": "ZBAA",
+        "iataCode": "PEK",
+        "airportType": "民用",
+        "serviceCity": "北京市"
+    },
+    {
+        "nameChinese": "北京大兴国际机场",
+        "nameEnglish": "Beijing Daxing International Airport",
+        "icaoCode": "ZBAD",
+        "iataCode": "PKX",
+        "airportType": "民用",
+        "serviceCity": "北京市"
+    },
+    {
+        "nameChinese": "天津滨海国际机场",
+        "nameEnglish": "Tianjin Binhai International Airport",
+        "icaoCode": "ZBTJ",
+        "iataCode": "TSN",
+        "airportType": "民用",
+        "serviceCity": "天津市"
+    },
+    {
+        "nameChinese": "石家庄正定国际机场",
+        "nameEnglish": "Shijiazhuang Zhengding International Airport",
+        "icaoCode": "ZBSJ",
+        "iataCode": "SJW",
+        "airportType": "民用",
+        "serviceCity": "石家庄市"
+    },
+    {
+        "nameChinese": "唐山三女河机场",
+        "nameEnglish": "Tangshan Sannvhe Airport",
+        "icaoCode": "ZBSN",
+        "iataCode": "TVS",
+        "airportType": "军民合用",
+        "serviceCity": "唐山市"
+    },
+    {
+        "nameChinese": "秦皇岛北戴河机场",
+        "nameEnglish": "Qinhuangdao Beidaihe Airport",
+        "icaoCode": "ZBDH",
+        "iataCode": "BPE",
+        "airportType": "民用",
+        "serviceCity": "秦皇岛市"
+    },
+    {
+        "nameChinese": "邯郸机场",
+        "nameEnglish": "Handan Airport",
+        "icaoCode": "ZBHD",
+        "iataCode": "HDG",
+        "airportType": "民用",
+        "serviceCity": "邯郸市"
+    },
+    {
+        "nameChinese": "邢台褡裢机场",
+        "nameEnglish": "Xingtai Dalian Airport",
+        "icaoCode": "ZBXT",
+        "iataCode": "XNT",
+        "airportType": "军民合用",
+        "serviceCity": "邢台市"
+    },
+    {
+        "nameChinese": "张家口宁远机场",
+        "nameEnglish": "Zhangjiakou Ningyuan Airport",
+        "icaoCode": "ZBZJ",
+        "iataCode": "ZQZ",
+        "airportType": "军民合用",
+        "serviceCity": "张家口市"
+    },
+    {
+        "nameChinese": "承德普宁机场",
+        "nameEnglish": "Chengde Puning Airport",
+        "icaoCode": "ZBCD",
+        "iataCode": "CDE",
+        "airportType": "民用",
+        "serviceCity": "承德市"
+    },
+    {
+        "nameChinese": "太原武宿国际机场",
+        "nameEnglish": "Taiyuan Wusu International Airport",
+        "icaoCode": "ZBYN",
+        "iataCode": "TYN",
+        "airportType": "民用",
+        "serviceCity": "太原市"
+    },
+    {
+        "nameChinese": "大同云冈国际机场",
+        "nameEnglish": "Datong Yungang International Airport",
+        "icaoCode": "ZBDT",
+        "iataCode": "DAT",
+        "airportType": "民用",
+        "serviceCity": "大同市"
+    },
+    {
+        "nameChinese": "长治王村机场",
+        "nameEnglish": "Changzhi Wangcun Airport",
+        "icaoCode": "ZBCZ",
+        "iataCode": "CIH",
+        "airportType": "军民合用",
+        "serviceCity": "长治市"
+    },
+    {
+        "nameChinese": "朔州滋润机场",
+        "nameEnglish": "Shuozhou Zirun Airport",
+        "icaoCode": "ZBSG",
+        "iataCode": "SZH",
+        "airportType": "民用",
+        "serviceCity": "朔州市"
+    },
+    {
+        "nameChinese": "运城盐湖国际机场",
+        "nameEnglish": "Yuncheng Yanhu International Airport",
+        "icaoCode": "ZBYC",
+        "iataCode": "YCU",
+        "airportType": "民用",
+        "serviceCity": "运城市"
+    },
+    {
+        "nameChinese": "忻州五台山机场",
+        "nameEnglish": "Xinzhou Wutaishan Airport",
+        "icaoCode": "ZBXZ",
+        "iataCode": "WUT",
+        "airportType": "军民合用",
+        "serviceCity": "忻州市"
+    },
+    {
+        "nameChinese": "临汾尧都机场",
+        "nameEnglish": "Linfen Yaodu Airport",
+        "icaoCode": "ZBLF",
+        "iataCode": "LFQ",
+        "airportType": "民用",
+        "serviceCity": "临汾市"
+    },
+    {
+        "nameChinese": "吕梁大武机场",
+        "nameEnglish": "Lvliang Dawu Airport",
+        "icaoCode": "ZBLL",
+        "iataCode": "LLV",
+        "airportType": "民用",
+        "serviceCity": "吕梁市"
+    },
+    {
+        "nameChinese": "呼和浩特白塔国际机场",
+        "nameEnglish": "Hohhot Baita International Airport",
+        "icaoCode": "ZBHH",
+        "iataCode": "HET",
+        "airportType": "民用",
+        "serviceCity": "呼和浩特市"
+    },
+    {
+        "nameChinese": "包头东河国际机场",
+        "nameEnglish": "Baotou Donghe International Airport",
+        "icaoCode": "ZBOW",
+        "iataCode": "BAV",
+        "airportType": "民用",
+        "serviceCity": "包头市"
+    },
+    {
+        "nameChinese": "乌海机场",
+        "nameEnglish": "Wuhai Airport",
+        "icaoCode": "ZBUH",
+        "iataCode": "WUA",
+        "airportType": "民用",
+        "serviceCity": "乌海市"
+    },
+    {
+        "nameChinese": "赤峰玉龙机场",
+        "nameEnglish": "Chifeng Yulong Airport",
+        "icaoCode": "ZBCF",
+        "iataCode": "CIF",
+        "airportType": "军民合用",
+        "serviceCity": "赤峰市"
+    },
+    {
+        "nameChinese": "通辽机场",
+        "nameEnglish": "Tongliao Airport",
+        "icaoCode": "ZBTL",
+        "iataCode": "TGO",
+        "airportType": "民用",
+        "serviceCity": "通辽市"
+    },
+    {
+        "nameChinese": "霍林郭勒霍林河机场",
+        "nameEnglish": "Huolinguole Huolinhe Airport",
+        "icaoCode": "ZBHZ",
+        "iataCode": "HUO",
+        "airportType": "民用",
+        "serviceCity": "霍林郭勒市"
+    },
+    {
+        "nameChinese": "鄂尔多斯伊金霍洛国际机场",
+        "nameEnglish": "Ordos Ejin Horo International Airport",
+        "icaoCode": "ZBDS",
+        "iataCode": "DSN",
+        "airportType": "民用",
+        "serviceCity": "鄂尔多斯市"
+    },
+    {
+        "nameChinese": "呼伦贝尔海拉尔机场",
+        "nameEnglish": "Hulunbeier Hailar Airport",
+        "icaoCode": "ZBLA",
+        "iataCode": "HLD",
+        "airportType": "民用",
+        "serviceCity": "呼伦贝尔市"
+    },
+    {
+        "nameChinese": "满洲里西郊机场",
+        "nameEnglish": "Manzhouli Xijiao Airport",
+        "icaoCode": "ZBMZ",
+        "iataCode": "NZH",
+        "airportType": "民用",
+        "serviceCity": "满洲里市"
+    },
+    {
+        "nameChinese": "扎兰屯成吉思汗机场",
+        "nameEnglish": "Zhalantun Chengjisihan Airport",
+        "icaoCode": "ZBZL",
+        "iataCode": "NZL",
+        "airportType": "民用",
+        "serviceCity": "扎兰屯市"
+    },
+    {
+        "nameChinese": "巴彦淖尔天吉泰机场",
+        "nameEnglish": "Bayannaoer Tianjitai Airport",
+        "icaoCode": "ZBYZ",
+        "iataCode": "RLK",
+        "airportType": "民用",
+        "serviceCity": "巴彦淖尔市"
+    },
+    {
+        "nameChinese": "乌兰察布集宁机场",
+        "nameEnglish": "Ulanqab Jining Airport",
+        "icaoCode": "ZBUC",
+        "iataCode": "UCB",
+        "airportType": "民用",
+        "serviceCity": "乌兰察布市"
+    },
+    {
+        "nameChinese": "乌兰浩特义勒力特机场",
+        "nameEnglish": "Wulanhaote Yilelite Airport",
+        "icaoCode": "ZBUL",
+        "iataCode": "HLH",
+        "airportType": "民用",
+        "serviceCity": "乌兰浩特市"
+    },
+    {
+        "nameChinese": "阿尔山伊尔施机场",
+        "nameEnglish": "Aershan Yiershi Airport",
+        "icaoCode": "ZBES",
+        "iataCode": "YIE",
+        "airportType": "民用",
+        "serviceCity": "阿尔山市"
+    },
+    {
+        "nameChinese": "二连浩特赛乌素国际机场",
+        "nameEnglish": "Ereen Hot Sain Us International Airport",
+        "icaoCode": "ZBER",
+        "iataCode": "ERL",
+        "airportType": "民用",
+        "serviceCity": "二连浩特市"
+    },
+    {
+        "nameChinese": "锡林浩特机场",
+        "nameEnglish": "Xilinhaote Airport",
+        "icaoCode": "ZBXH",
+        "iataCode": "XIL",
+        "airportType": "民用",
+        "serviceCity": "锡林浩特市"
+    },
+    {
+        "nameChinese": "阿拉善左旗巴彦浩特机场",
+        "nameEnglish": "Alxa Left Banner Bayanhot Airport",
+        "icaoCode": "ZBAL",
+        "iataCode": "AXF",
+        "airportType": "民用",
+        "serviceCity": "阿拉善左旗"
+    },
+    {
+        "nameChinese": "阿拉善右旗巴丹吉林机场",
+        "nameEnglish": "Alxa Right Banner Badan Jaran Airport",
+        "icaoCode": "ZBAR",
+        "iataCode": "RHT",
+        "airportType": "民用",
+        "serviceCity": "阿拉善右旗"
+    },
+    {
+        "nameChinese": "额济纳旗桃来机场",
+        "nameEnglish": "Ejina Banner Taolai Airport",
+        "icaoCode": "ZBEN",
+        "iataCode": "EJN",
+        "airportType": "民用",
+        "serviceCity": "额济纳旗"
+    },
+    {
+        "nameChinese": "呼和浩特盛乐国际机场",
+        "nameEnglish": "迁建",
+        "icaoCode": "ZBHH",
+        "iataCode": "HET",
+        "airportType": "民用",
+        "serviceCity": "呼和浩特市"
+    },
+    {
+        "nameChinese": "阿拉善左旗巴彦浩特机场",
+        "nameEnglish": "升级支线",
+        "icaoCode": "ZBAL",
+        "iataCode": "AXF",
+        "airportType": "民用",
+        "serviceCity": "阿拉善左旗"
+    },
+    {
+        "nameChinese": "沈阳桃仙国际机场",
+        "nameEnglish": "Shenyang Taoxian International Airport",
+        "icaoCode": "ZYTX",
+        "iataCode": "SHE",
+        "airportType": "民用",
+        "serviceCity": "沈阳市"
+    },
+    {
+        "nameChinese": "大连周水子国际机场",
+        "nameEnglish": "Dalian Zhoushuizi International Airport",
+        "icaoCode": "ZYTL",
+        "iataCode": "DLC",
+        "airportType": "民用",
+        "serviceCity": "大连市"
+    },
+    {
+        "nameChinese": "长海大长山岛机场",
+        "nameEnglish": "Changhai Dachangshandao Airport",
+        "icaoCode": "ZYCH",
+        "iataCode": "CNI",
+        "airportType": "民用",
+        "serviceCity": "长海县"
+    },
+    {
+        "nameChinese": "鞍山腾鳌机场",
+        "nameEnglish": "Anshan Teng",
+        "icaoCode": "ZYAS",
+        "iataCode": "AOG",
+        "airportType": "军民合用",
+        "serviceCity": "鞍山市"
+    },
+    {
+        "nameChinese": "丹东浪头机场",
+        "nameEnglish": "Dandong Langtou Airport",
+        "icaoCode": "ZYDD",
+        "iataCode": "DDG",
+        "airportType": "军民合用",
+        "serviceCity": "丹东市"
+    },
+    {
+        "nameChinese": "锦州锦州湾机场",
+        "nameEnglish": "Jinzhou Jinzhouwan Airport",
+        "icaoCode": "ZYJZ",
+        "iataCode": "JNZ",
+        "airportType": "民用",
+        "serviceCity": "锦州市"
+    },
+    {
+        "nameChinese": "营口兰旗机场",
+        "nameEnglish": "Yingkou Lanqi Airport",
+        "icaoCode": "ZYYK",
+        "iataCode": "YKH",
+        "airportType": "民用",
+        "serviceCity": "营口市"
+    },
+    {
+        "nameChinese": "朝阳机场",
+        "nameEnglish": "Chaoyang Airport",
+        "icaoCode": "ZYCY",
+        "iataCode": "CHG",
+        "airportType": "民用",
+        "serviceCity": "朝阳市"
+    },
+    {
+        "nameChinese": "大连金州湾国际机场",
+        "nameEnglish": "迁建",
+        "icaoCode": "ZYTL",
+        "iataCode": "DLC",
+        "airportType": "民用",
+        "serviceCity": "大连市"
+    },
+    {
+        "nameChinese": "长春龙嘉国际机场",
+        "nameEnglish": "Changchun Longjia International Airport",
+        "icaoCode": "ZYCC",
+        "iataCode": "CGQ",
+        "airportType": "民用",
+        "serviceCity": "长春市"
+    },
+    {
+        "nameChinese": "通化三源浦机场",
+        "nameEnglish": "Tonghua Sanyuanpu Airport",
+        "icaoCode": "ZYTN",
+        "iataCode": "TNH",
+        "airportType": "军民合用",
+        "serviceCity": "通化市"
+    },
+    {
+        "nameChinese": "白山长白山机场",
+        "nameEnglish": "Baishan Changbaishan Airport",
+        "icaoCode": "ZYBS",
+        "iataCode": "NBS",
+        "airportType": "民用",
+        "serviceCity": "长白山管委会"
+    },
+    {
+        "nameChinese": "松原查干湖机场",
+        "nameEnglish": "Songyuan Chaganhu Airport",
+        "icaoCode": "ZYSQ",
+        "iataCode": "YSQ",
+        "airportType": "民用",
+        "serviceCity": "松原市"
+    },
+    {
+        "nameChinese": "白城长安机场",
+        "nameEnglish": "Baicheng Chang",
+        "icaoCode": "ZYBA",
+        "iataCode": "DBC",
+        "airportType": "民用",
+        "serviceCity": "白城市"
+    },
+    {
+        "nameChinese": "延吉朝阳川国际机场",
+        "nameEnglish": "Yanji Chaoyangchuan International Airport",
+        "icaoCode": "ZYYJ",
+        "iataCode": "YNJ",
+        "airportType": "军民合用",
+        "serviceCity": "延吉市"
+    },
+    {
+        "nameChinese": "哈尔滨太平国际机场",
+        "nameEnglish": "Harbin Taiping International Airport",
+        "icaoCode": "ZYHB",
+        "iataCode": "HRB",
+        "airportType": "民用",
+        "serviceCity": "哈尔滨市"
+    },
+    {
+        "nameChinese": "齐齐哈尔三家子机场",
+        "nameEnglish": "Qiqihar Sanjiazi Airport",
+        "icaoCode": "ZYQQ",
+        "iataCode": "NDG",
+        "airportType": "军民合用",
+        "serviceCity": "齐齐哈尔市"
+    },
+    {
+        "nameChinese": "鸡西兴凯湖机场",
+        "nameEnglish": "Jixi Xingkaihu Airport",
+        "icaoCode": "ZYJX",
+        "iataCode": "JXA",
+        "airportType": "民用",
+        "serviceCity": "鸡西市"
+    },
+    {
+        "nameChinese": "大庆萨尔图机场",
+        "nameEnglish": "Daqing Saertu Airport",
+        "icaoCode": "ZYDQ",
+        "iataCode": "DQA",
+        "airportType": "民用",
+        "serviceCity": "大庆市"
+    },
+    {
+        "nameChinese": "伊春林都机场",
+        "nameEnglish": "Yichun Lindu Airport",
+        "icaoCode": "ZYLD",
+        "iataCode": "LDS",
+        "airportType": "民用",
+        "serviceCity": "伊春市"
+    },
+    {
+        "nameChinese": "佳木斯东郊机场",
+        "nameEnglish": "Jiamusi Dongjiao Airport",
+        "icaoCode": "ZYJM",
+        "iataCode": "JMU",
+        "airportType": "军民合用",
+        "serviceCity": "佳木斯市"
+    },
+    {
+        "nameChinese": "建三江湿地机场",
+        "nameEnglish": "Jiansanjiang Shidi Airport",
+        "icaoCode": "ZYJS",
+        "iataCode": "JSJ",
+        "airportType": "民用",
+        "serviceCity": "建三江管委会"
+    },
+    {
+        "nameChinese": "抚远东极机场",
+        "nameEnglish": "Fuyuan Dongji Airport",
+        "icaoCode": "ZYFY",
+        "iataCode": "FYJ",
+        "airportType": "民用",
+        "serviceCity": "抚远市"
+    },
+    {
+        "nameChinese": "牡丹江海浪国际机场",
+        "nameEnglish": "Mudanjiang Hailang International Airport",
+        "icaoCode": "ZYMD",
+        "iataCode": "MDG",
+        "airportType": "军民合用",
+        "serviceCity": "牡丹江市"
+    },
+    {
+        "nameChinese": "绥芬河东宁机场",
+        "nameEnglish": "Suifenhe Dongning Airport",
+        "icaoCode": "ZYSD",
+        "iataCode": "HSF",
+        "airportType": "民用",
+        "serviceCity": "绥芬河市东宁市"
+    },
+    {
+        "nameChinese": "黑河瑷珲机场",
+        "nameEnglish": "Heihe Aihui Airport",
+        "icaoCode": "ZYHE",
+        "iataCode": "HEK",
+        "airportType": "民用",
+        "serviceCity": "黑河市"
+    },
+    {
+        "nameChinese": "五大连池德都机场",
+        "nameEnglish": "Wudalianchi Dedu Airport",
+        "icaoCode": "ZYDU",
+        "iataCode": "DTU",
+        "airportType": "民用",
+        "serviceCity": "五大连池市"
+    },
+    {
+        "nameChinese": "漠河古莲机场",
+        "nameEnglish": "Mohe Gulian Airport",
+        "icaoCode": "ZYMH",
+        "iataCode": "OHE",
+        "airportType": "民用",
+        "serviceCity": "漠河市"
+    },
+    {
+        "nameChinese": "大兴安岭鄂伦春机场",
+        "nameEnglish": "Daxinganling Elunchun Airport",
+        "icaoCode": "ZYJD",
+        "iataCode": "JGD",
+        "airportType": "民用",
+        "serviceCity": "加格达奇区鄂伦春自治旗"
+    },
+    {
+        "nameChinese": "上海虹桥国际机场",
+        "nameEnglish": "Shanghai Hongqiao International Airport",
+        "icaoCode": "ZSSS",
+        "iataCode": "SHA",
+        "airportType": "民用",
+        "serviceCity": "上海市"
+    },
+    {
+        "nameChinese": "上海浦东国际机场",
+        "nameEnglish": "Shanghai Pudong International Airport",
+        "icaoCode": "ZSPD",
+        "iataCode": "PVG",
+        "airportType": "民用",
+        "serviceCity": "上海市"
+    },
+    {
+        "nameChinese": "南京禄口国际机场",
+        "nameEnglish": "Nanjing Lukou International Airport",
+        "icaoCode": "ZSNJ",
+        "iataCode": "NKG",
+        "airportType": "民用",
+        "serviceCity": "南京市"
+    },
+    {
+        "nameChinese": "无锡硕放机场",
+        "nameEnglish": "Wuxi Shuofang Airport",
+        "icaoCode": "ZSWX",
+        "iataCode": "WUX",
+        "airportType": "军民合用",
+        "serviceCity": "无锡市苏州市"
+    },
+    {
+        "nameChinese": "徐州观音国际机场",
+        "nameEnglish": "Xuzhou Guanyin International Airport",
+        "icaoCode": "ZSXZ",
+        "iataCode": "XUZ",
+        "airportType": "民用",
+        "serviceCity": "徐州市"
+    },
+    {
+        "nameChinese": "常州奔牛国际机场",
+        "nameEnglish": "Changzhou Benniu International Airport",
+        "icaoCode": "ZSCG",
+        "iataCode": "CZX",
+        "airportType": "军民合用",
+        "serviceCity": "常州市"
+    },
+    {
+        "nameChinese": "南通兴东国际机场",
+        "nameEnglish": "Nantong Xingdong International Airport",
+        "icaoCode": "ZSNT",
+        "iataCode": "NTG",
+        "airportType": "民用",
+        "serviceCity": "南通市"
+    },
+    {
+        "nameChinese": "连云港花果山国际机场",
+        "nameEnglish": "Lianyungang Huaguoshan International Airport",
+        "icaoCode": "ZSLG",
+        "iataCode": "LYG",
+        "airportType": "民用",
+        "serviceCity": "连云港市"
+    },
+    {
+        "nameChinese": "淮安涟水国际机场",
+        "nameEnglish": "Huaian Lianshui International Airport",
+        "icaoCode": "ZSSH",
+        "iataCode": "HIA",
+        "airportType": "民用",
+        "serviceCity": "淮安市"
+    },
+    {
+        "nameChinese": "盐城南洋国际机场",
+        "nameEnglish": "Yancheng Nanyang International Airport",
+        "icaoCode": "ZSYN",
+        "iataCode": "YNZ",
+        "airportType": "军民合用",
+        "serviceCity": "盐城市"
+    },
+    {
+        "nameChinese": "扬州泰州国际机场",
+        "nameEnglish": "Yangzhou Taizhou International Airport",
+        "icaoCode": "ZSYA",
+        "iataCode": "YTY",
+        "airportType": "民用",
+        "serviceCity": "扬州市泰州市"
+    },
+    {
+        "nameChinese": "杭州萧山国际机场",
+        "nameEnglish": "Hangzhou Xiaoshan International Airport",
+        "icaoCode": "ZSHC",
+        "iataCode": "HGH",
+        "airportType": "民用",
+        "serviceCity": "杭州市"
+    },
+    {
+        "nameChinese": "宁波栎社国际机场",
+        "nameEnglish": "Ningbo Lishe International Airport",
+        "icaoCode": "ZSNB",
+        "iataCode": "NGB",
+        "airportType": "民用",
+        "serviceCity": "宁波市"
+    },
+    {
+        "nameChinese": "温州龙湾国际机场",
+        "nameEnglish": "Wenzhou Longwan International Airport",
+        "icaoCode": "ZSWZ",
+        "iataCode": "WNZ",
+        "airportType": "民用",
+        "serviceCity": "温州市"
+    },
+    {
+        "nameChinese": "义乌机场",
+        "nameEnglish": "Yiwu Airport",
+        "icaoCode": "ZSYW",
+        "iataCode": "YIW",
+        "airportType": "军民合用",
+        "serviceCity": "义乌市"
+    },
+    {
+        "nameChinese": "衢州机场",
+        "nameEnglish": "Quzhou Airport",
+        "icaoCode": "ZSJU",
+        "iataCode": "JUZ",
+        "airportType": "军民合用",
+        "serviceCity": "衢州市"
+    },
+    {
+        "nameChinese": "舟山普陀山国际机场",
+        "nameEnglish": "Zhoushan Putuoshan International Airport",
+        "icaoCode": "ZSZS",
+        "iataCode": "HSN",
+        "airportType": "民用",
+        "serviceCity": "舟山市"
+    },
+    {
+        "nameChinese": "台州路桥机场",
+        "nameEnglish": "Taizhou Luqiao Airport",
+        "icaoCode": "ZSLQ",
+        "iataCode": "HYN",
+        "airportType": "军民合用",
+        "serviceCity": "台州市"
+    },
+    {
+        "nameChinese": "丽水机场",
+        "nameEnglish": "Lishui Airport",
+        "icaoCode": "ZSLI",
+        "iataCode": "LIJ",
+        "airportType": "民用",
+        "serviceCity": "丽水市"
+    },
+    {
+        "nameChinese": "嘉兴南湖机场",
+        "nameEnglish": "Jiaxing Nanhu Airport",
+        "icaoCode": "-",
+        "iataCode": "JNH",
+        "airportType": "军民合用",
+        "serviceCity": "嘉兴市"
+    },
+    {
+        "nameChinese": "合肥新桥国际机场",
+        "nameEnglish": "Hefei Xinqiao International Airport",
+        "icaoCode": "ZSOF",
+        "iataCode": "HFE",
+        "airportType": "民用",
+        "serviceCity": "合肥市"
+    },
+    {
+        "nameChinese": "芜湖宣州机场",
+        "nameEnglish": "Wuhu Xuanzhou Airport",
+        "icaoCode": "ZSWA",
+        "iataCode": "WHA",
+        "airportType": "民用",
+        "serviceCity": "芜湖市宣城市"
+    },
+    {
+        "nameChinese": "安庆天柱山机场",
+        "nameEnglish": "Anqing Tianzhushan Airport",
+        "icaoCode": "ZSAQ",
+        "iataCode": "AQG",
+        "airportType": "军民合用",
+        "serviceCity": "安庆市"
+    },
+    {
+        "nameChinese": "黄山屯溪国际机场",
+        "nameEnglish": "Huangshan Tunxi International Airport",
+        "icaoCode": "ZSTX",
+        "iataCode": "TXN",
+        "airportType": "民用",
+        "serviceCity": "黄山市"
+    },
+    {
+        "nameChinese": "阜阳机场",
+        "nameEnglish": "Fuyang Airport",
+        "icaoCode": "ZSFY",
+        "iataCode": "FUG",
+        "airportType": "民用",
+        "serviceCity": "阜阳市"
+    },
+    {
+        "nameChinese": "池州九华山机场",
+        "nameEnglish": "Chizhou Jiuhuashan Airport",
+        "icaoCode": "ZSJH",
+        "iataCode": "JUH",
+        "airportType": "民用",
+        "serviceCity": "池州市"
+    },
+    {
+        "nameChinese": "蚌埠滕湖机场",
+        "nameEnglish": "Bengbu Tenghu Airport",
+        "icaoCode": "ZSBA",
+        "iataCode": "BFY",
+        "airportType": "民用",
+        "serviceCity": "蚌埠市"
+    },
+    {
+        "nameChinese": "亳州机场",
+        "nameEnglish": "Bozhou Airport",
+        "icaoCode": "ZSBO",
+        "iataCode": "BZJ",
+        "airportType": "民用",
+        "serviceCity": "亳州市"
+    },
+    {
+        "nameChinese": "福州长乐国际机场",
+        "nameEnglish": "Fuzhou Changle International Airport",
+        "icaoCode": "ZSFZ",
+        "iataCode": "FOC",
+        "airportType": "民用",
+        "serviceCity": "福州市"
+    },
+    {
+        "nameChinese": "厦门高崎国际机场",
+        "nameEnglish": "Xiamen Gaoqi International Airport",
+        "icaoCode": "ZSAM",
+        "iataCode": "XMN",
+        "airportType": "民用",
+        "serviceCity": "厦门市"
+    },
+    {
+        "nameChinese": "三明沙县机场",
+        "nameEnglish": "Sanming Shaxian Airport",
+        "icaoCode": "ZSSM",
+        "iataCode": "SQJ",
+        "airportType": "民用",
+        "serviceCity": "三明市"
+    },
+    {
+        "nameChinese": "泉州晋江国际机场",
+        "nameEnglish": "Quanzhou Jinjiang International Airport",
+        "icaoCode": "ZSQZ",
+        "iataCode": "JJN",
+        "airportType": "军民合用",
+        "serviceCity": "泉州市"
+    },
+    {
+        "nameChinese": "武夷山机场",
+        "nameEnglish": "Wuyishan Airport",
+        "icaoCode": "ZSWY",
+        "iataCode": "WUS",
+        "airportType": "军民合用",
+        "serviceCity": "武夷山市"
+    },
+    {
+        "nameChinese": "连城冠豸山机场",
+        "nameEnglish": "Liancheng Guanzhaishan Airport",
+        "icaoCode": "ZSLO",
+        "iataCode": "LCX",
+        "airportType": "军民合用",
+        "serviceCity": "龙岩市"
+    },
+    {
+        "nameChinese": "南昌昌北国际机场",
+        "nameEnglish": "Nanchang Changbei International Airport",
+        "icaoCode": "ZSCN",
+        "iataCode": "KHN",
+        "airportType": "民用",
+        "serviceCity": "南昌市"
+    },
+    {
+        "nameChinese": "景德镇罗家机场",
+        "nameEnglish": "Jingdezhen Luojia Airport",
+        "icaoCode": "ZSJD",
+        "iataCode": "JDZ",
+        "airportType": "民用",
+        "serviceCity": "景德镇市"
+    },
+    {
+        "nameChinese": "九江庐山机场",
+        "nameEnglish": "Jiujiang Lushan Airport",
+        "icaoCode": "ZSJJ",
+        "iataCode": "JIU",
+        "airportType": "军民合用",
+        "serviceCity": "九江市"
+    },
+    {
+        "nameChinese": "赣州黄金机场",
+        "nameEnglish": "Ganzhou Huangjin Airport",
+        "icaoCode": "ZSGZ",
+        "iataCode": "KOW",
+        "airportType": "民用",
+        "serviceCity": "赣州市"
+    },
+    {
+        "nameChinese": "吉安井冈山机场",
+        "nameEnglish": "Ji",
+        "icaoCode": "ZSGS",
+        "iataCode": "JGS",
+        "airportType": "军民合用",
+        "serviceCity": "吉安市"
+    },
+    {
+        "nameChinese": "宜春明月山机场",
+        "nameEnglish": "Yichun Mingyueshan Airport",
+        "icaoCode": "ZSYC",
+        "iataCode": "YIC",
+        "airportType": "民用",
+        "serviceCity": "宜春市"
+    },
+    {
+        "nameChinese": "上饶三清山机场",
+        "nameEnglish": "Shangrao Sanqingshan Airport",
+        "icaoCode": "ZSSR",
+        "iataCode": "SQD",
+        "airportType": "民用",
+        "serviceCity": "上饶市"
+    },
+    {
+        "nameChinese": "赣州瑞金机场",
+        "nameEnglish": "Ganzhou Ruijin Airport",
+        "icaoCode": "ZSRJ",
+        "iataCode": "JRJ",
+        "airportType": "民用",
+        "serviceCity": "瑞金市"
+    },
+    {
+        "nameChinese": "济南遥墙国际机场",
+        "nameEnglish": "Jinan Yaoqiang International Airport",
+        "icaoCode": "ZSJN",
+        "iataCode": "TNA",
+        "airportType": "民用",
+        "serviceCity": "济南市"
+    },
+    {
+        "nameChinese": "青岛胶东国际机场",
+        "nameEnglish": "Qingdao Jiaodong International Airport",
+        "icaoCode": "ZSQD",
+        "iataCode": "TAO",
+        "airportType": "民用",
+        "serviceCity": "青岛市"
+    },
+    {
+        "nameChinese": "东营胜利机场",
+        "nameEnglish": "Dongying Shengli Airport",
+        "icaoCode": "ZSDY",
+        "iataCode": "DOY",
+        "airportType": "民用",
+        "serviceCity": "东营市"
+    },
+    {
+        "nameChinese": "烟台蓬莱国际机场",
+        "nameEnglish": "Yantai Penglai International Airport",
+        "icaoCode": "ZSYT",
+        "iataCode": "YNT",
+        "airportType": "民用",
+        "serviceCity": "烟台市"
+    },
+    {
+        "nameChinese": "潍坊机场",
+        "nameEnglish": "Weifang Airport",
+        "icaoCode": "ZSWF",
+        "iataCode": "WEF",
+        "airportType": "军民合用",
+        "serviceCity": "潍坊市"
+    },
+    {
+        "nameChinese": "济宁大安机场",
+        "nameEnglish": "Jining Daan Airport",
+        "icaoCode": "ZSJG",
+        "iataCode": "JNG",
+        "airportType": "民用",
+        "serviceCity": "济宁市"
+    },
+    {
+        "nameChinese": "威海大水泊国际机场",
+        "nameEnglish": "Weihai Dashuipo International Airport",
+        "icaoCode": "ZSWH",
+        "iataCode": "WEH",
+        "airportType": "军民合用",
+        "serviceCity": "威海市"
+    },
+    {
+        "nameChinese": "日照山字河机场",
+        "nameEnglish": "Rizhao Shanzihe Airport",
+        "icaoCode": "ZSRZ",
+        "iataCode": "RIZ",
+        "airportType": "民用",
+        "serviceCity": "日照市"
+    },
+    {
+        "nameChinese": "临沂启阳国际机场",
+        "nameEnglish": "Linyi Qiyang International Airport",
+        "icaoCode": "ZSLY",
+        "iataCode": "LYI",
+        "airportType": "民用",
+        "serviceCity": "临沂市"
+    },
+    {
+        "nameChinese": "菏泽牡丹机场",
+        "nameEnglish": "Heze Mudan Airport",
+        "icaoCode": "ZSHZ",
+        "iataCode": "HZA",
+        "airportType": "民用",
+        "serviceCity": "菏泽市"
+    },
+    {
+        "nameChinese": "郑州新郑国际机场",
+        "nameEnglish": "Zhengzhou Xinzheng International Airport",
+        "icaoCode": "ZHCC",
+        "iataCode": "CGO",
+        "airportType": "民用",
+        "serviceCity": "郑州市"
+    },
+    {
+        "nameChinese": "洛阳北郊机场",
+        "nameEnglish": "Luoyang Beijiao Airport",
+        "icaoCode": "ZHLY",
+        "iataCode": "LYA",
+        "airportType": "民用",
+        "serviceCity": "洛阳市"
+    },
+    {
+        "nameChinese": "安阳红旗渠机场",
+        "nameEnglish": "Anyang Hongqiqu Airport",
+        "icaoCode": "ZHQQ",
+        "iataCode": "HQQ",
+        "airportType": "民用",
+        "serviceCity": "安阳市"
+    },
+    {
+        "nameChinese": "南阳姜营机场",
+        "nameEnglish": "Nanyang Jiangying Airport",
+        "icaoCode": "ZHNY",
+        "iataCode": "NNY",
+        "airportType": "民用",
+        "serviceCity": "南阳市"
+    },
+    {
+        "nameChinese": "信阳明港机场",
+        "nameEnglish": "Xinyang Minggang Airport",
+        "icaoCode": "ZHXY",
+        "iataCode": "XAI",
+        "airportType": "军民合用",
+        "serviceCity": "信阳市驻马店市"
+    },
+    {
+        "nameChinese": "武汉天河国际机场",
+        "nameEnglish": "Wuhan Tianhe International Airport",
+        "icaoCode": "ZHHH",
+        "iataCode": "WUH",
+        "airportType": "民用",
+        "serviceCity": "武汉市"
+    },
+    {
+        "nameChinese": "十堰武当山机场",
+        "nameEnglish": "Shiyan Wudangshan Airport",
+        "icaoCode": "ZHSY",
+        "iataCode": "WDS",
+        "airportType": "民用",
+        "serviceCity": "十堰市"
+    },
+    {
+        "nameChinese": "宜昌三峡国际机场",
+        "nameEnglish": "Yichang Sanxia International Airport",
+        "icaoCode": "ZHYC",
+        "iataCode": "YIH",
+        "airportType": "民用",
+        "serviceCity": "宜昌市"
+    },
+    {
+        "nameChinese": "襄阳刘集机场",
+        "nameEnglish": "Xiangyang Liuji Airport",
+        "icaoCode": "ZHXF",
+        "iataCode": "XFN",
+        "airportType": "民用",
+        "serviceCity": "襄阳市"
+    },
+    {
+        "nameChinese": "鄂州花湖国际机场",
+        "nameEnglish": "Ezhou Huahu International Airport",
+        "icaoCode": "ZHEC",
+        "iataCode": "EHU",
+        "airportType": "民用",
+        "serviceCity": "鄂州市"
+    },
+    {
+        "nameChinese": "荆州沙市机场",
+        "nameEnglish": "Jingzhou Shashi Airport",
+        "icaoCode": "ZHJZ",
+        "iataCode": "SHS",
+        "airportType": "民用",
+        "serviceCity": "荆州市"
+    },
+    {
+        "nameChinese": "恩施许家坪国际机场",
+        "nameEnglish": "Enshi Xujiaping International Airport",
+        "icaoCode": "ZHES",
+        "iataCode": "ENH",
+        "airportType": "民用",
+        "serviceCity": "恩施市"
+    },
+    {
+        "nameChinese": "神农架红坪机场",
+        "nameEnglish": "Shennongjia Hongping Airport",
+        "icaoCode": "ZHSN",
+        "iataCode": "HPG",
+        "airportType": "民用",
+        "serviceCity": "神农架林区"
+    },
+    {
+        "nameChinese": "长沙黄花国际机场",
+        "nameEnglish": "Changsha Huanghua International Airport",
+        "icaoCode": "ZGHA",
+        "iataCode": "CSX",
+        "airportType": "民用",
+        "serviceCity": "长沙市"
+    },
+    {
+        "nameChinese": "衡阳南岳机场",
+        "nameEnglish": "Hengyang Nanyue Airport",
+        "icaoCode": "ZGHY",
+        "iataCode": "HNY",
+        "airportType": "民用",
+        "serviceCity": "衡阳市"
+    },
+    {
+        "nameChinese": "邵阳武冈机场",
+        "nameEnglish": "Shaoyang Wugang Airport",
+        "icaoCode": "ZGSY",
+        "iataCode": "WGN",
+        "airportType": "民用",
+        "serviceCity": "武冈市"
+    },
+    {
+        "nameChinese": "岳阳三荷机场",
+        "nameEnglish": "Yueyang Sanhe Airport",
+        "icaoCode": "ZGYY",
+        "iataCode": "YYA",
+        "airportType": "民用",
+        "serviceCity": "岳阳市"
+    },
+    {
+        "nameChinese": "常德桃花源机场",
+        "nameEnglish": "Changde Taohuayuan Airport",
+        "icaoCode": "ZGCD",
+        "iataCode": "CGD",
+        "airportType": "民用",
+        "serviceCity": "常德市"
+    },
+    {
+        "nameChinese": "张家界荷花国际机场",
+        "nameEnglish": "Zhangjiajie Hehua International Airport",
+        "icaoCode": "ZGDY",
+        "iataCode": "DYG",
+        "airportType": "民用",
+        "serviceCity": "张家界市"
+    },
+    {
+        "nameChinese": "郴州北湖机场",
+        "nameEnglish": "Chenzhou Beihu Airport",
+        "icaoCode": "ZGCZ",
+        "iataCode": "HCZ",
+        "airportType": "民用",
+        "serviceCity": "郴州市"
+    },
+    {
+        "nameChinese": "永州零陵机场",
+        "nameEnglish": "Yongzhou Lingling Airport",
+        "icaoCode": "ZGLG",
+        "iataCode": "LLF",
+        "airportType": "军民合用",
+        "serviceCity": "永州市"
+    },
+    {
+        "nameChinese": "怀化芷江机场",
+        "nameEnglish": "Huaihua Zhijiang Airport",
+        "icaoCode": "ZGCJ",
+        "iataCode": "HJJ",
+        "airportType": "军民合用",
+        "serviceCity": "怀化市"
+    },
+    {
+        "nameChinese": "湘西边城机场",
+        "nameEnglish": "Xiangxi Biancheng Airport",
+        "icaoCode": "ZGXX",
+        "iataCode": "DXJ",
+        "airportType": "民用",
+        "serviceCity": "吉首市"
+    },
+    {
+        "nameChinese": "广州白云国际机场",
+        "nameEnglish": "Guangzhou Baiyun International Airport",
+        "icaoCode": "ZGGG",
+        "iataCode": "CAN",
+        "airportType": "民用",
+        "serviceCity": "广州市"
+    },
+    {
+        "nameChinese": "韶关丹霞机场",
+        "nameEnglish": "Shaoguan Danxia Airport",
+        "icaoCode": "ZGSG",
+        "iataCode": "HSC",
+        "airportType": "军民合用",
+        "serviceCity": "韶关市"
+    },
+    {
+        "nameChinese": "深圳宝安国际机场",
+        "nameEnglish": "Shenzhen Baoan International Airport",
+        "icaoCode": "ZGSZ",
+        "iataCode": "SZX",
+        "airportType": "民用",
+        "serviceCity": "深圳市"
+    },
+    {
+        "nameChinese": "珠海金湾机场",
+        "nameEnglish": "Zhuhai Jinwan Airport",
+        "icaoCode": "ZGSD",
+        "iataCode": "ZUH",
+        "airportType": "民用",
+        "serviceCity": "珠海市"
+    },
+    {
+        "nameChinese": "佛山沙堤机场",
+        "nameEnglish": "Foshan Shadi Airport",
+        "icaoCode": "ZGFS",
+        "iataCode": "FUO",
+        "airportType": "军民合用",
+        "serviceCity": "佛山市"
+    },
+    {
+        "nameChinese": "湛江吴川国际机场",
+        "nameEnglish": "Zhanjiang Wuchuan International Airport",
+        "icaoCode": "ZGZJ",
+        "iataCode": "ZHA",
+        "airportType": "民用",
+        "serviceCity": "湛江市"
+    },
+    {
+        "nameChinese": "惠州平潭机场",
+        "nameEnglish": "Huizhou Pingtan Airport",
+        "icaoCode": "ZGHZ",
+        "iataCode": "HUZ",
+        "airportType": "军民合用",
+        "serviceCity": "惠州市"
+    },
+    {
+        "nameChinese": "梅州梅县机场",
+        "nameEnglish": "Meizhou Meixian Airport",
+        "icaoCode": "ZGMX",
+        "iataCode": "MXZ",
+        "airportType": "民用",
+        "serviceCity": "梅州市"
+    },
+    {
+        "nameChinese": "揭阳潮汕国际机场",
+        "nameEnglish": "Jieyang Chaoshan International Airport",
+        "icaoCode": "ZGOW",
+        "iataCode": "SWA",
+        "airportType": "民用",
+        "serviceCity": "揭阳市潮州市汕头市"
+    },
+    {
+        "nameChinese": "南宁吴圩国际机场",
+        "nameEnglish": "Nanning Wuxu International Airport",
+        "icaoCode": "ZGNN",
+        "iataCode": "NNG",
+        "airportType": "军民合用",
+        "serviceCity": "南宁市"
+    },
+    {
+        "nameChinese": "柳州白莲机场",
+        "nameEnglish": "Liuzhou Bailian Airport",
+        "icaoCode": "ZGZH",
+        "iataCode": "LZH",
+        "airportType": "军民合用",
+        "serviceCity": "柳州市"
+    },
+    {
+        "nameChinese": "桂林两江国际机场",
+        "nameEnglish": "Guilin Liangjiang International Airport",
+        "icaoCode": "ZGKL",
+        "iataCode": "KWL",
+        "airportType": "民用",
+        "serviceCity": "桂林市"
+    },
+    {
+        "nameChinese": "梧州西江机场",
+        "nameEnglish": "Wuzhou Xijiang Airport",
+        "icaoCode": "ZGWZ",
+        "iataCode": "WUZ",
+        "airportType": "民用",
+        "serviceCity": "梧州市"
+    },
+    {
+        "nameChinese": "北海福成机场",
+        "nameEnglish": "Beihai Fucheng Airport",
+        "icaoCode": "ZGBH",
+        "iataCode": "BHY",
+        "airportType": "民用",
+        "serviceCity": "北海市"
+    },
+    {
+        "nameChinese": "玉林福绵机场",
+        "nameEnglish": "Yulin Fumian Airport",
+        "icaoCode": "ZGYL",
+        "iataCode": "YLX",
+        "airportType": "民用",
+        "serviceCity": "玉林市"
+    },
+    {
+        "nameChinese": "百色巴马机场",
+        "nameEnglish": "Baise Bama Airport",
+        "icaoCode": "ZGBS",
+        "iataCode": "AEB",
+        "airportType": "军民合用",
+        "serviceCity": "百色市巴马瑶族自治县"
+    },
+    {
+        "nameChinese": "河池金城江机场",
+        "nameEnglish": "Hechi Jinchengjiang Airport",
+        "icaoCode": "ZGHC",
+        "iataCode": "HCJ",
+        "airportType": "民用",
+        "serviceCity": "河池市"
+    },
+    {
+        "nameChinese": "海口美兰国际机场",
+        "nameEnglish": "Haikou Meilan International Airport",
+        "icaoCode": "ZJHK",
+        "iataCode": "HAK",
+        "airportType": "民用",
+        "serviceCity": "海口市"
+    },
+    {
+        "nameChinese": "三亚凤凰国际机场",
+        "nameEnglish": "Sanya Phoenix International Airport",
+        "icaoCode": "ZJSY",
+        "iataCode": "SYX",
+        "airportType": "民用",
+        "serviceCity": "三亚市"
+    },
+    {
+        "nameChinese": "三沙永兴机场",
+        "nameEnglish": "Sansha Yongxing Airport",
+        "icaoCode": "ZJYX",
+        "iataCode": "XYI",
+        "airportType": "军民合用",
+        "serviceCity": "三沙市"
+    },
+    {
+        "nameChinese": "琼海博鳌国际机场",
+        "nameEnglish": "Qionghai Boao International Airport",
+        "icaoCode": "ZJQH",
+        "iataCode": "BAR",
+        "airportType": "民用",
+        "serviceCity": "琼海市"
+    },
+    {
+        "nameChinese": "重庆江北国际机场",
+        "nameEnglish": "Chongqing Jiangbei International Airport",
+        "icaoCode": "ZUCK",
+        "iataCode": "CKG",
+        "airportType": "民用",
+        "serviceCity": "重庆市"
+    },
+    {
+        "nameChinese": "万州五桥机场",
+        "nameEnglish": "Wanzhou Wuqiao Airport",
+        "icaoCode": "ZUWX",
+        "iataCode": "WXN",
+        "airportType": "民用",
+        "serviceCity": "万州区"
+    },
+    {
+        "nameChinese": "黔江武陵山机场",
+        "nameEnglish": "Qianjiang Wulingshan Airport",
+        "icaoCode": "ZUQJ",
+        "iataCode": "JIQ",
+        "airportType": "民用",
+        "serviceCity": "黔江区"
+    },
+    {
+        "nameChinese": "重庆仙女山机场",
+        "nameEnglish": "Chongqing Xiannvshan Airport",
+        "icaoCode": "ZUWL",
+        "iataCode": "CQW",
+        "airportType": "民用",
+        "serviceCity": "武隆区"
+    },
+    {
+        "nameChinese": "重庆巫山机场",
+        "nameEnglish": "Chongqing Wushan Airport",
+        "icaoCode": "ZUWS",
+        "iataCode": "WSK",
+        "airportType": "民用",
+        "serviceCity": "巫山县"
+    },
+    {
+        "nameChinese": "成都双流国际机场",
+        "nameEnglish": "Chengdu Shuangliu International Airport",
+        "icaoCode": "ZUUU",
+        "iataCode": "CTU",
+        "airportType": "民用",
+        "serviceCity": "成都市"
+    },
+    {
+        "nameChinese": "成都天府国际机场",
+        "nameEnglish": "Chengdu Tianfu International Airport",
+        "icaoCode": "ZUTF",
+        "iataCode": "TFU",
+        "airportType": "民用",
+        "serviceCity": "成都市"
+    },
+    {
+        "nameChinese": "攀枝花保安营机场",
+        "nameEnglish": "Panzhihua Baoanying Airport",
+        "icaoCode": "ZUZH",
+        "iataCode": "PZI",
+        "airportType": "民用",
+        "serviceCity": "攀枝花市"
+    },
+    {
+        "nameChinese": "泸州云龙机场",
+        "nameEnglish": "Luzhou Yunlong Airport",
+        "icaoCode": "ZULZ",
+        "iataCode": "LZO",
+        "airportType": "军民合用",
+        "serviceCity": "泸州市"
+    },
+    {
+        "nameChinese": "绵阳南郊机场",
+        "nameEnglish": "Mianyang Nanjiao Airport",
+        "icaoCode": "ZUMY",
+        "iataCode": "MIG",
+        "airportType": "军民合用",
+        "serviceCity": "绵阳市"
+    },
+    {
+        "nameChinese": "广元盘龙机场",
+        "nameEnglish": "Guangyuan Panlong Airport",
+        "icaoCode": "ZUGU",
+        "iataCode": "GYS",
+        "airportType": "民用",
+        "serviceCity": "广元市"
+    },
+    {
+        "nameChinese": "南充高坪机场",
+        "nameEnglish": "Nanchong Gaoping Airport",
+        "icaoCode": "ZUNC",
+        "iataCode": "NAO",
+        "airportType": "军民合用",
+        "serviceCity": "南充市"
+    },
+    {
+        "nameChinese": "阆中古城机场",
+        "nameEnglish": "Langzhong Gucheng Airport",
+        "icaoCode": "ZULA",
+        "iataCode": "LZG",
+        "airportType": "民用",
+        "serviceCity": "阆中市"
+    },
+    {
+        "nameChinese": "宜宾五粮液机场",
+        "nameEnglish": "Yibin Wuliangye Airport",
+        "icaoCode": "ZUYB",
+        "iataCode": "YBP",
+        "airportType": "军民合用",
+        "serviceCity": "宜宾市"
+    },
+    {
+        "nameChinese": "达州金垭机场",
+        "nameEnglish": "Dazhou Jinya Airport",
+        "icaoCode": "ZUDA",
+        "iataCode": "DZH",
+        "airportType": "民用",
+        "serviceCity": "达州市"
+    },
+    {
+        "nameChinese": "巴中恩阳机场",
+        "nameEnglish": "Bazhong Enyang Airport",
+        "icaoCode": "ZUBZ",
+        "iataCode": "BZX",
+        "airportType": "民用",
+        "serviceCity": "巴中市"
+    },
+    {
+        "nameChinese": "九寨黄龙机场",
+        "nameEnglish": "Jiuzhai Huanglong Airport",
+        "icaoCode": "ZUJZ",
+        "iataCode": "JZH",
+        "airportType": "民用",
+        "serviceCity": "九寨沟县"
+    },
+    {
+        "nameChinese": "阿坝红原机场",
+        "nameEnglish": "Aba Hongyuan Airport",
+        "icaoCode": "ZUHY",
+        "iataCode": "AHJ",
+        "airportType": "民用",
+        "serviceCity": "马尔康市"
+    },
+    {
+        "nameChinese": "甘孜康定机场",
+        "nameEnglish": "Ganzi Kangding Airport",
+        "icaoCode": "ZUKD",
+        "iataCode": "KGT",
+        "airportType": "民用",
+        "serviceCity": "康定市"
+    },
+    {
+        "nameChinese": "甘孜格萨尔机场",
+        "nameEnglish": "Ganzi Gesaer Airport",
+        "icaoCode": "ZUGZ",
+        "iataCode": "GZG",
+        "airportType": "民用",
+        "serviceCity": "甘孜县"
+    },
+    {
+        "nameChinese": "稻城亚丁机场",
+        "nameEnglish": "Daocheng Yading Airport",
+        "icaoCode": "ZUDC",
+        "iataCode": "DCY",
+        "airportType": "民用",
+        "serviceCity": "稻城县"
+    },
+    {
+        "nameChinese": "西昌青山机场",
+        "nameEnglish": "Xichang Qingshan Airport",
+        "icaoCode": "ZUXC",
+        "iataCode": "XIC",
+        "airportType": "军民合用",
+        "serviceCity": "西昌市"
+    },
+    {
+        "nameChinese": "乐山机场",
+        "nameEnglish": "Leshan Airport",
+        "icaoCode": "-",
+        "iataCode": "LSG",
+        "airportType": "军民合用",
+        "serviceCity": "乐山市"
+    },
+    {
+        "nameChinese": "贵阳龙洞堡国际机场",
+        "nameEnglish": "Guiyang Longdongbao International Airport",
+        "icaoCode": "ZUGY",
+        "iataCode": "KWE",
+        "airportType": "民用",
+        "serviceCity": "贵阳市"
+    },
+    {
+        "nameChinese": "六盘水月照机场",
+        "nameEnglish": "Liupanshui Yuezhao Airport",
+        "icaoCode": "ZUPS",
+        "iataCode": "LPF",
+        "airportType": "民用",
+        "serviceCity": "六盘水市"
+    },
+    {
+        "nameChinese": "遵义新舟机场",
+        "nameEnglish": "Zunyi Xinzhou Airport",
+        "icaoCode": "ZUZY",
+        "iataCode": "ZYI",
+        "airportType": "军民合用",
+        "serviceCity": "遵义市"
+    },
+    {
+        "nameChinese": "遵义茅台机场",
+        "nameEnglish": "Zunyi Maotai Airport",
+        "icaoCode": "ZUMT",
+        "iataCode": "WMT",
+        "airportType": "民用",
+        "serviceCity": "仁怀市"
+    },
+    {
+        "nameChinese": "安顺黄果树机场",
+        "nameEnglish": "Anshun Huangguoshu Airport",
+        "icaoCode": "ZUAS",
+        "iataCode": "AVA",
+        "airportType": "民用",
+        "serviceCity": "安顺市"
+    },
+    {
+        "nameChinese": "毕节飞雄机场",
+        "nameEnglish": "Bijie Feixiong Airport",
+        "icaoCode": "ZUBJ",
+        "iataCode": "BFJ",
+        "airportType": "民用",
+        "serviceCity": "毕节市"
+    },
+    {
+        "nameChinese": "铜仁凤凰机场",
+        "nameEnglish": "Tongren Fenghuang Airport",
+        "icaoCode": "ZUTR",
+        "iataCode": "TEN",
+        "airportType": "民用",
+        "serviceCity": "铜仁市凤凰县"
+    },
+    {
+        "nameChinese": "兴义万峰林机场",
+        "nameEnglish": "Xingyi Wanfenglin Airport",
+        "icaoCode": "ZUYI",
+        "iataCode": "ACX",
+        "airportType": "民用",
+        "serviceCity": "兴义市"
+    },
+    {
+        "nameChinese": "凯里黄平机场",
+        "nameEnglish": "Kaili Huangping Airport",
+        "icaoCode": "ZUKJ",
+        "iataCode": "KJH",
+        "airportType": "民用",
+        "serviceCity": "凯里市"
+    },
+    {
+        "nameChinese": "黔东南黎平机场",
+        "nameEnglish": "Qiandongnan Liping Airport",
+        "icaoCode": "ZUNP",
+        "iataCode": "HZH",
+        "airportType": "民用",
+        "serviceCity": "黎平县"
+    },
+    {
+        "nameChinese": "黔南荔波机场",
+        "nameEnglish": "Qiannan Libo Airport",
+        "icaoCode": "ZULB",
+        "iataCode": "LLB",
+        "airportType": "民用",
+        "serviceCity": "荔波县"
+    },
+    {
+        "nameChinese": "威宁草海机场",
+        "nameEnglish": "Weining Caohai Airport",
+        "icaoCode": "ZUWN",
+        "iataCode": "WNJ",
+        "airportType": "民用",
+        "serviceCity": "威宁彝族回族苗族自治县"
+    },
+    {
+        "nameChinese": "铜仁德江机场",
+        "nameEnglish": "Tongren Dejiang Airport",
+        "icaoCode": "ZUDJ",
+        "iataCode": "DEJ",
+        "airportType": "民用",
+        "serviceCity": "德江县"
+    },
+    {
+        "nameChinese": "昆明长水国际机场",
+        "nameEnglish": "Kunming Changshui International Airport",
+        "icaoCode": "ZPPP",
+        "iataCode": "KMG",
+        "airportType": "民用",
+        "serviceCity": "昆明市"
+    },
+    {
+        "nameChinese": "保山云瑞机场",
+        "nameEnglish": "Baoshan Yunrui Airport",
+        "icaoCode": "ZPBS",
+        "iataCode": "BSD",
+        "airportType": "民用",
+        "serviceCity": "保山市"
+    },
+    {
+        "nameChinese": "腾冲驼峰机场",
+        "nameEnglish": "Tengchong Tuofeng Airport",
+        "icaoCode": "ZPTC",
+        "iataCode": "TCZ",
+        "airportType": "民用",
+        "serviceCity": "腾冲市"
+    },
+    {
+        "nameChinese": "昭通机场",
+        "nameEnglish": "Zhaotong Airport",
+        "icaoCode": "ZPZT",
+        "iataCode": "ZAT",
+        "airportType": "军民合用",
+        "serviceCity": "昭通市"
+    },
+    {
+        "nameChinese": "丽江三义国际机场",
+        "nameEnglish": "Lijiang Sanyi International Airport",
+        "icaoCode": "ZPLJ",
+        "iataCode": "LJG",
+        "airportType": "民用",
+        "serviceCity": "丽江市"
+    },
+    {
+        "nameChinese": "宁蒗泸沽湖机场",
+        "nameEnglish": "Ninglang Luguhu Airport",
+        "icaoCode": "ZPNL",
+        "iataCode": "NLH",
+        "airportType": "民用",
+        "serviceCity": "宁蒗彝族自治县"
+    },
+    {
+        "nameChinese": "普洱思茅机场",
+        "nameEnglish": "Puer Simao Airport",
+        "icaoCode": "ZPSM",
+        "iataCode": "SYM",
+        "airportType": "军民合用",
+        "serviceCity": "普洱市"
+    },
+    {
+        "nameChinese": "澜沧景迈机场",
+        "nameEnglish": "Lancang Jingmai Airport",
+        "icaoCode": "ZPJM",
+        "iataCode": "JMJ",
+        "airportType": "民用",
+        "serviceCity": "澜沧拉祜族自治县"
+    },
+    {
+        "nameChinese": "临沧博尚机场",
+        "nameEnglish": "Lincang Boshang Airport",
+        "icaoCode": "ZPLC",
+        "iataCode": "LNJ",
+        "airportType": "民用",
+        "serviceCity": "临沧市"
+    },
+    {
+        "nameChinese": "沧源佤山机场",
+        "nameEnglish": "Cangyuan Washan Airport",
+        "icaoCode": "ZPCW",
+        "iataCode": "CWJ",
+        "airportType": "民用",
+        "serviceCity": "沧源佤族自治县"
+    },
+    {
+        "nameChinese": "文山砚山机场",
+        "nameEnglish": "Wenshan Yanshan Airport",
+        "icaoCode": "ZPWS",
+        "iataCode": "WNH",
+        "airportType": "民用",
+        "serviceCity": "文山市"
+    },
+    {
+        "nameChinese": "西双版纳嘎洒国际机场",
+        "nameEnglish": "Xishuangbanna Gasa International Airport",
+        "icaoCode": "ZPJH",
+        "iataCode": "JHG",
+        "airportType": "民用",
+        "serviceCity": "景洪市"
+    },
+    {
+        "nameChinese": "大理凤仪机场",
+        "nameEnglish": "Dali Fengyi Airport",
+        "icaoCode": "ZPDL",
+        "iataCode": "DLU",
+        "airportType": "民用",
+        "serviceCity": "大理市"
+    },
+    {
+        "nameChinese": "德宏芒市国际机场",
+        "nameEnglish": "Dehong Mangshi International Airport",
+        "icaoCode": "ZPMS",
+        "iataCode": "LUM",
+        "airportType": "民用",
+        "serviceCity": "芒市"
+    },
+    {
+        "nameChinese": "迪庆香格里拉机场",
+        "nameEnglish": "Diqing Xianggelila Airport",
+        "icaoCode": "ZPDQ",
+        "iataCode": "DIG",
+        "airportType": "民用",
+        "serviceCity": "香格里拉市"
+    },
+    {
+        "nameChinese": "拉萨贡嘎国际机场",
+        "nameEnglish": "Lhasa Konggar International Airport",
+        "icaoCode": "ZULS",
+        "iataCode": "LXA",
+        "airportType": "军民合用",
+        "serviceCity": "拉萨市"
+    },
+    {
+        "nameChinese": "日喀则和平机场",
+        "nameEnglish": "Rikaze Heping Airport",
+        "icaoCode": "ZURK",
+        "iataCode": "RKZ",
+        "airportType": "军民合用",
+        "serviceCity": "日喀则市"
+    },
+    {
+        "nameChinese": "日喀则定日机场",
+        "nameEnglish": "Rikaze Dingri Airport",
+        "icaoCode": "ZUDR",
+        "iataCode": "DDR",
+        "airportType": "民用",
+        "serviceCity": "定日县"
+    },
+    {
+        "nameChinese": "昌都邦达机场",
+        "nameEnglish": "Changdu Bangda Airport",
+        "icaoCode": "ZUBD",
+        "iataCode": "BPX",
+        "airportType": "军民合用",
+        "serviceCity": "昌都市"
+    },
+    {
+        "nameChinese": "林芝米林机场",
+        "nameEnglish": "Linzhi Milin Airport",
+        "icaoCode": "ZUNZ",
+        "iataCode": "LZY",
+        "airportType": "军民合用",
+        "serviceCity": "林芝市"
+    },
+    {
+        "nameChinese": "山南隆子机场",
+        "nameEnglish": "Shannan Longzi Airport",
+        "icaoCode": "ZUSH",
+        "iataCode": "LGZ",
+        "airportType": "民用",
+        "serviceCity": "隆子县"
+    },
+    {
+        "nameChinese": "阿里普兰机场",
+        "nameEnglish": "Ali Pulan Airport",
+        "icaoCode": "ZUPL",
+        "iataCode": "APJ",
+        "airportType": "民用",
+        "serviceCity": "普兰县"
+    },
+    {
+        "nameChinese": "阿里昆莎机场",
+        "nameEnglish": "Ali Kunsha Airport",
+        "icaoCode": "ZUAL",
+        "iataCode": "NGQ",
+        "airportType": "军民合用",
+        "serviceCity": "噶尔县"
+    },
+    {
+        "nameChinese": "西安咸阳国际机场",
+        "nameEnglish": "Xi",
+        "icaoCode": "ZLXY",
+        "iataCode": "XIY",
+        "airportType": "民用",
+        "serviceCity": "西安市咸阳市"
+    },
+    {
+        "nameChinese": "延安南泥湾机场",
+        "nameEnglish": "Yanan Nanniwan Airport",
+        "icaoCode": "ZLYA",
+        "iataCode": "ENY",
+        "airportType": "军民合用",
+        "serviceCity": "延安市"
+    },
+    {
+        "nameChinese": "汉中城固机场",
+        "nameEnglish": "Hanzhong Chenggu Airport",
+        "icaoCode": "ZLHZ",
+        "iataCode": "HZG",
+        "airportType": "军民合用",
+        "serviceCity": "汉中市"
+    },
+    {
+        "nameChinese": "榆林榆阳机场",
+        "nameEnglish": "Yulin Yuyang Airport",
+        "icaoCode": "ZLYL",
+        "iataCode": "UYN",
+        "airportType": "民用",
+        "serviceCity": "榆林市"
+    },
+    {
+        "nameChinese": "安康富强机场",
+        "nameEnglish": "Ankang Fuqiang Airport",
+        "icaoCode": "ZLAK",
+        "iataCode": "AKA",
+        "airportType": "军民合用",
+        "serviceCity": "安康市"
+    },
+    {
+        "nameChinese": "兰州中川国际机场",
+        "nameEnglish": "Lanzhou Zhongchuan International Airport",
+        "icaoCode": "ZLLL",
+        "iataCode": "LHW",
+        "airportType": "民用",
+        "serviceCity": "兰州市"
+    },
+    {
+        "nameChinese": "嘉峪关酒泉机场",
+        "nameEnglish": "Jiayuguan Jiuquan Airport",
+        "icaoCode": "ZLJQ",
+        "iataCode": "JGN",
+        "airportType": "民用",
+        "serviceCity": "嘉峪关市酒泉市"
+    },
+    {
+        "nameChinese": "金昌金川机场",
+        "nameEnglish": "Jinchang Jinchuan Airport",
+        "icaoCode": "ZLJC",
+        "iataCode": "JIC",
+        "airportType": "民用",
+        "serviceCity": "金昌市"
+    },
+    {
+        "nameChinese": "天水麦积山机场",
+        "nameEnglish": "Tianshui Maijishan Airport",
+        "icaoCode": "ZLTS",
+        "iataCode": "THQ",
+        "airportType": "军民合用",
+        "serviceCity": "天水市"
+    },
+    {
+        "nameChinese": "张掖甘州机场",
+        "nameEnglish": "Zhangye Ganzhou Airport",
+        "icaoCode": "ZLZY",
+        "iataCode": "YZY",
+        "airportType": "军民合用",
+        "serviceCity": "张掖市"
+    },
+    {
+        "nameChinese": "敦煌莫高国际机场",
+        "nameEnglish": "Dunhuang Mogao International Airport",
+        "icaoCode": "ZLDH",
+        "iataCode": "DNH",
+        "airportType": "民用",
+        "serviceCity": "敦煌市"
+    },
+    {
+        "nameChinese": "庆阳机场",
+        "nameEnglish": "Qingyang Airport",
+        "icaoCode": "ZLQY",
+        "iataCode": "IQN",
+        "airportType": "民用",
+        "serviceCity": "庆阳市"
+    },
+    {
+        "nameChinese": "陇南成县机场",
+        "nameEnglish": "Longnan Chengxian Airport",
+        "icaoCode": "ZLLN",
+        "iataCode": "LNL",
+        "airportType": "民用",
+        "serviceCity": "陇南市"
+    },
+    {
+        "nameChinese": "甘南夏河机场",
+        "nameEnglish": "Gannan Xiahe Airport",
+        "icaoCode": "ZLXH",
+        "iataCode": "GXH",
+        "airportType": "民用",
+        "serviceCity": "合作市"
+    },
+    {
+        "nameChinese": "西宁曹家堡国际机场",
+        "nameEnglish": "Xining Caojiapu International Airport",
+        "icaoCode": "ZLXN",
+        "iataCode": "XNN",
+        "airportType": "民用",
+        "serviceCity": "西宁市"
+    },
+    {
+        "nameChinese": "海北祁连机场",
+        "nameEnglish": "Haibei Qilian Airport",
+        "icaoCode": "ZLHB",
+        "iataCode": "HBQ",
+        "airportType": "民用",
+        "serviceCity": "祁连县"
+    },
+    {
+        "nameChinese": "果洛玛沁机场",
+        "nameEnglish": "Guoluo Maqin Airport",
+        "icaoCode": "ZLGL",
+        "iataCode": "GMQ",
+        "airportType": "民用",
+        "serviceCity": "玛沁县"
+    },
+    {
+        "nameChinese": "玉树巴塘机场",
+        "nameEnglish": "Yushu Batang Airport",
+        "icaoCode": "ZLYS",
+        "iataCode": "YUS",
+        "airportType": "民用",
+        "serviceCity": "玉树市"
+    },
+    {
+        "nameChinese": "格尔木机场",
+        "nameEnglish": "Geermu Airport",
+        "icaoCode": "ZLGM",
+        "iataCode": "GOQ",
+        "airportType": "军民合用",
+        "serviceCity": "格尔木市"
+    },
+    {
+        "nameChinese": "海西德令哈机场",
+        "nameEnglish": "Haixi Delingha Airport",
+        "icaoCode": "ZLDL",
+        "iataCode": "HXD",
+        "airportType": "民用",
+        "serviceCity": "德令哈市"
+    },
+    {
+        "nameChinese": "海西花土沟机场",
+        "nameEnglish": "Haixi Huatugou Airport",
+        "icaoCode": "ZLHX",
+        "iataCode": "HTT",
+        "airportType": "民用",
+        "serviceCity": "茫崖市"
+    },
+    {
+        "nameChinese": "银川河东国际机场",
+        "nameEnglish": "Yinchuan Hedong International Airport",
+        "icaoCode": "ZLIC",
+        "iataCode": "INC",
+        "airportType": "民用",
+        "serviceCity": "银川市"
+    },
+    {
+        "nameChinese": "固原六盘山机场",
+        "nameEnglish": "Guyuan Liupanshan Airport",
+        "icaoCode": "ZLGY",
+        "iataCode": "GYU",
+        "airportType": "民用",
+        "serviceCity": "固原市"
+    },
+    {
+        "nameChinese": "中卫沙坡头机场",
+        "nameEnglish": "Zhongwei Shapotou Airport",
+        "icaoCode": "ZLZW",
+        "iataCode": "ZHY",
+        "airportType": "民用",
+        "serviceCity": "中卫市"
+    },
+    {
+        "nameChinese": "乌鲁木齐天山国际机场",
+        "nameEnglish": "Urumqi Tianshan International Airport",
+        "icaoCode": "ZWWW",
+        "iataCode": "URC",
+        "airportType": "民用",
+        "serviceCity": "乌鲁木齐市"
+    },
+    {
+        "nameChinese": "克拉玛依古海机场",
+        "nameEnglish": "Kelamayi Guhai Airport",
+        "icaoCode": "ZWKM",
+        "iataCode": "KRY",
+        "airportType": "民用",
+        "serviceCity": "克拉玛依市"
+    },
+    {
+        "nameChinese": "吐鲁番交河机场",
+        "nameEnglish": "Turpan Jiaohe Airport",
+        "icaoCode": "ZWTL",
+        "iataCode": "TLQ",
+        "airportType": "民用",
+        "serviceCity": "吐鲁番市"
+    },
+    {
+        "nameChinese": "哈密伊州机场",
+        "nameEnglish": "Hami Yizhou Airport",
+        "icaoCode": "ZWHM",
+        "iataCode": "HMI",
+        "airportType": "军民合用",
+        "serviceCity": "哈密市"
+    },
+    {
+        "nameChinese": "巴里坤大河机场",
+        "nameEnglish": "Balikun Dahe Airport",
+        "icaoCode": "ZWLK",
+        "iataCode": "DHH",
+        "airportType": "民用",
+        "serviceCity": "巴里坤哈萨克自治县"
+    },
+    {
+        "nameChinese": "奇台江布拉克机场",
+        "nameEnglish": "Qitai Jiangbulake Airport",
+        "icaoCode": "ZWQT",
+        "iataCode": "JBK",
+        "airportType": "民用",
+        "serviceCity": "奇台县"
+    },
+    {
+        "nameChinese": "博乐阿拉山口机场",
+        "nameEnglish": "Bole Alashankou Airport",
+        "icaoCode": "ZWBL",
+        "iataCode": "BPL",
+        "airportType": "民用",
+        "serviceCity": "博乐市"
+    },
+    {
+        "nameChinese": "库尔勒梨城机场",
+        "nameEnglish": "Korla Licheng Airport",
+        "icaoCode": "ZWKL",
+        "iataCode": "KRL",
+        "airportType": "军民合用",
+        "serviceCity": "库尔勒市"
+    },
+    {
+        "nameChinese": "若羌楼兰机场",
+        "nameEnglish": "Ruoqiang Loulan Airport",
+        "icaoCode": "ZWRQ",
+        "iataCode": "RQA",
+        "airportType": "民用",
+        "serviceCity": "若羌县"
+    },
+    {
+        "nameChinese": "且末玉都机场",
+        "nameEnglish": "Qiemo Yudu Airport",
+        "icaoCode": "ZWCM",
+        "iataCode": "IQM",
+        "airportType": "军民合用",
+        "serviceCity": "且末县"
+    },
+    {
+        "nameChinese": "和静巴音布鲁克机场",
+        "nameEnglish": "Hejing Bayinbuluke Airport",
+        "icaoCode": "ZWHJ",
+        "iataCode": "HJB",
+        "airportType": "民用",
+        "serviceCity": "巴音布鲁克镇"
+    },
+    {
+        "nameChinese": "阿克苏红旗坡机场",
+        "nameEnglish": "Akesu Hongqipo Airport",
+        "icaoCode": "ZWAK",
+        "iataCode": "AKU",
+        "airportType": "军民合用",
+        "serviceCity": "阿克苏市"
+    },
+    {
+        "nameChinese": "库车龟兹机场",
+        "nameEnglish": "Kuqa Qiuci Airport",
+        "icaoCode": "ZWKC",
+        "iataCode": "KCA",
+        "airportType": "民用",
+        "serviceCity": "库车市"
+    },
+    {
+        "nameChinese": "喀什徕宁国际机场",
+        "nameEnglish": "Kashi Laining International Airport",
+        "icaoCode": "ZWSH",
+        "iataCode": "KHG",
+        "airportType": "军民合用",
+        "serviceCity": "喀什市"
+    },
+    {
+        "nameChinese": "莎车叶尔羌机场",
+        "nameEnglish": "Shache Yeerqiang Airport",
+        "icaoCode": "ZWSC",
+        "iataCode": "QSZ",
+        "airportType": "民用",
+        "serviceCity": "莎车县"
+    },
+    {
+        "nameChinese": "塔什库尔干红其拉甫机场",
+        "nameEnglish": "Tashikuergan Hongqilafu Airport",
+        "icaoCode": "ZWTK",
+        "iataCode": "HQL",
+        "airportType": "军民合用",
+        "serviceCity": "塔什库尔干塔吉克自治县"
+    },
+    {
+        "nameChinese": "和田昆冈机场",
+        "nameEnglish": "Hetian Kungang Airport",
+        "icaoCode": "ZWTN",
+        "iataCode": "HTN",
+        "airportType": "军民合用",
+        "serviceCity": "和田市"
+    },
+    {
+        "nameChinese": "于田万方机场",
+        "nameEnglish": "Yutian Wanfang Airport",
+        "icaoCode": "ZWYT",
+        "iataCode": "YTW",
+        "airportType": "军民合用",
+        "serviceCity": "于田县"
+    },
+    {
+        "nameChinese": "伊犁伊宁国际机场",
+        "nameEnglish": "Ili Yining International Airport",
+        "icaoCode": "ZWYN",
+        "iataCode": "YIN",
+        "airportType": "民用",
+        "serviceCity": "伊宁市"
+    },
+    {
+        "nameChinese": "新源那拉提机场",
+        "nameEnglish": "Xinyuan Nalati Airport",
+        "icaoCode": "ZWNL",
+        "iataCode": "NLT",
+        "airportType": "民用",
+        "serviceCity": "新源县"
+    },
+    {
+        "nameChinese": "昭苏天马机场",
+        "nameEnglish": "Zhaosu Tianma Airport",
+        "icaoCode": "ZWZS",
+        "iataCode": "ZFL",
+        "airportType": "民用",
+        "serviceCity": "昭苏县"
+    },
+    {
+        "nameChinese": "塔城千泉机场",
+        "nameEnglish": "Tacheng Qianquan Airport",
+        "icaoCode": "ZWTC",
+        "iataCode": "TCG",
+        "airportType": "民用",
+        "serviceCity": "塔城市"
+    },
+    {
+        "nameChinese": "阿勒泰雪都机场",
+        "nameEnglish": "Aletai Xuedu Airport",
+        "icaoCode": "ZWAT",
+        "iataCode": "AAT",
+        "airportType": "民用",
+        "serviceCity": "阿勒泰市"
+    },
+    {
+        "nameChinese": "布尔津喀纳斯机场",
+        "nameEnglish": "Buerjin Kanasi Airport",
+        "icaoCode": "ZWKN",
+        "iataCode": "KJI",
+        "airportType": "民用",
+        "serviceCity": "布尔津县"
+    },
+    {
+        "nameChinese": "富蕴可可托海机场",
+        "nameEnglish": "Fuyun Keketuohai Airport",
+        "icaoCode": "ZWFY",
+        "iataCode": "FYN",
+        "airportType": "军民合用",
+        "serviceCity": "富蕴县"
+    },
+    {
+        "nameChinese": "石河子花园机场",
+        "nameEnglish": "Shihezi Huayuan Airport",
+        "icaoCode": "ZWHZ",
+        "iataCode": "SHF",
+        "airportType": "民用",
+        "serviceCity": "石河子市"
+    },
+    {
+        "nameChinese": "阿拉尔塔里木机场",
+        "nameEnglish": "Alaer Talimu Airport",
+        "icaoCode": "ZWAL",
+        "iataCode": "ACF",
+        "airportType": "民用",
+        "serviceCity": "阿拉尔市"
+    },
+    {
+        "nameChinese": "图木舒克唐王城机场",
+        "nameEnglish": "Tumushuke Tangwangcheng Airport",
+        "icaoCode": "ZWTS",
+        "iataCode": "TWC",
+        "airportType": "民用",
+        "serviceCity": "图木舒克市"
+    },
+    {
+        "nameChinese": "香港国际机场",
+        "nameEnglish": "Hong Kong International Airport",
+        "icaoCode": "VHHH",
+        "iataCode": "HKG",
+        "airportType": "民用",
+        "serviceCity": "香港特别行政区"
+    },
+    {
+        "nameChinese": "澳门国际机场",
+        "nameEnglish": "Macau International Airport",
+        "icaoCode": "VMMC",
+        "iataCode": "MFM",
+        "airportType": "民用",
+        "serviceCity": "澳门特别行政区"
+    },
+    {
+        "nameChinese": "滨州大高机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "CBZ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "成都淮州机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "HZU",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "达茂百灵庙机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "BKV",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "乌拉特中旗海流图机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "WZQ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "乌尔禾百口泉机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "WRH",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "神木西沙机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "XNX",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "武汉汉南机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "WHN",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "鄂托克前旗敖勒召其机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "OTQ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "乌审旗嘎鲁图机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "WSQ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "鄂托克旗乌兰机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "OTO",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "太原尧城机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "TYC",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "北川永昌机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "BCJ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "竹山麻家渡机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "DSP",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "呼玛鹿鼎山机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "HMX",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "德清莫干山机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "DEQ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "石家庄栾城机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "LCT",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "建德千岛湖通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "JDE",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "新巴尔虎右旗宝格德机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "XRQ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "蓬莱沙河口机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "PNJ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "镇江大路通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "AZJ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "自贡凤鸣通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "ZKL",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "东阳横店通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "HEW",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "肇东北大荒通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "HLJ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "丹凤商镇通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "DFA",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "广汉机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "GHN",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "嫩江墨尔根通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "NJJ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "阿鲁科尔沁机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "AEQ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "莫力达瓦旗机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "DWS",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "南昌瑶湖机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "YHJ",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "永川大安通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "YGA",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "兰坪丰华通用机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "LFH",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "加格达奇光明机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "JGD",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "哈尔滨平房机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "PFA",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "重庆梁平机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "LIA",
+        "airportType": "",
+        "serviceCity": ""
+    },
+    {
+        "nameChinese": "陇川广宋机场",
+        "nameEnglish": "",
+        "icaoCode": "",
+        "iataCode": "LCS",
+        "airportType": "",
+        "serviceCity": ""
+    }
+]
